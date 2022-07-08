@@ -4,41 +4,42 @@ import { View } from "react-native";
 
 const Untitled1 = () => {
   return <View style={{
-    backgroundColor: '#f0f0f1',
+    backgroundColor: "#fbfbfb",
     padding: 10,
-    position: 'relative',
-    height: '100%'
+    position: "relative",
+    height: "100%"
   }}>
       <View style={{
-      left: 29,
-      top: 22,
+      left: 0,
+      top: 0,
       position: "absolute",
-      height: 60,
-      width: 140,
-      backgroundColor: "#E4E4E4",
+      height: 64,
+      width: 197,
+      backgroundColor: "#9dcdf2",
       borderRadius: 0,
       color: "#777777"
     }}></View><Text style={{
-      left: 77,
-      top: 106,
+      left: 52,
+      top: 16,
       position: "absolute",
-      width: 100,
-      height: 50,
-      lineHeight: 14,
-      fontSize: 14,
-      borderRadius: 0
-    }}>Lorem ipsum… </Text><View style={{
-      left: 16,
-      top: 178,
-      position: "absolute",
-      height: 60,
-      width: 140,
-      backgroundColor: "#E4E4E4",
+      width: 102,
+      height: 30,
+      lineHeight: 25,
+      fontSize: 25,
       borderRadius: 0,
+      color: "#3d3d3d"
+    }}>My app.</Text><View style={{
+      left: 26,
+      top: 135,
+      position: "absolute",
+      height: 134,
+      width: 140,
+      backgroundColor: "#9df1ab",
+      borderRadius: "50%",
       color: "#777777"
     }}></View><Text style={{
-      left: 81,
-      top: 271,
+      left: 52,
+      top: 197,
       position: "absolute",
       width: 100,
       height: 50,
