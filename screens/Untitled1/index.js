@@ -14,7 +14,7 @@ const Untitled1 = () => {
       top: 0,
       position: "absolute",
       height: 64,
-      width: 197,
+      width: 357,
       backgroundColor: "#9dcdf2",
       borderRadius: 0,
       color: "#777777"
@@ -29,9 +29,9 @@ const Untitled1 = () => {
       borderRadius: 0,
       color: "#3d3d3d"
     }}>My app.</Text><View style={{
-      left: 26,
-      top: 135,
       position: "absolute",
+      left: 108.5,
+      top: 251.5,
       height: 134,
       width: 140,
       backgroundColor: "#9df1ab",
